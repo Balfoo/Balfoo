@@ -10,3 +10,4 @@ Un développeur Back-End qui aime le web
 📫 Me joindre Discord : Balfoo#0903
 
 
+![Balfoo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balfoo&show_icons=true)
