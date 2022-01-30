@@ -12,6 +12,15 @@ Un développeur Back-End qui aime le web
 
 Languages & Outils maitrisés:
 
+HTML 5 
+CCS 3 
+PHP
+SCASS
+JS
+NodeJS
+Angular
+Gulpsjs
+
 
 
 ![Balfoo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balfoo&show_icons=true)
