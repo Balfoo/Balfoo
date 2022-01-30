@@ -24,3 +24,5 @@ Gulpsjs
 
 
 ![Balfoo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balfoo&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balfoo&layout=compact)](https://github.com/Balfoo)
