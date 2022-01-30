@@ -15,10 +15,11 @@ Languages & Outils maitrisés:
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=BB0B0B)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&color=#2962ff)
+![](https://img.shields.io/badge/Code-Gulp-informational?style=flat&logo=Gulp&color=#E32636)
 </br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
