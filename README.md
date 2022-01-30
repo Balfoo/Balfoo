@@ -9,4 +9,4 @@ Un développeur Back-End qui aime le web
 
 📫 Me joindre Discord : Balfoo#0903
 
-css3 firebase git gulp html5 illustrator javascript laravel mysql nodejs photoshop php sass xd
+
