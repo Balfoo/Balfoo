@@ -1,13 +1,11 @@
 Hi 👋, Je suis Florent allias Balfoo
-Un développeur web Full-Stack spécialisé en Back-End
+Un développeur web Full-Stack spécialisé en Back-End, je suis en LP CréaWeb à l'IUT de Lens
 
-🔭 Je suis en LP CréaWeb à l'IUT de Lens
+Je maitrise les languages PHP, HTML, CSS, SQLServ, BDD, JS et j'apprend l'Angular, SASS, ASP.NET C#, Gulps  
 
-🌱 Je maitrise les languages PHP, HTML, CSS, SQLServ, BDD, JS et j'apprend l'Angular, SASS, ASP.NET C#, Gulps  
+Tous mes projets publiques sont disponibles sur https://github.com/Balfoo ou sur mon portfolio http://www.florent-hode.fr 
 
-👨‍💻 Tous mes projets publiques sont disponibles sur https://github.com/Balfoo ou sur mon portfolio http://www.florent-hode.fr 
-
-![image](https://user-images.githubusercontent.com/79572615/183863227-5ffc7546-4a93-46ef-8a9d-3826d4c99478.png) Me joindre Discord : Balfoo#0903
+Me joindre Discord : Balfoo#0903
 
 
 Langages & Outils maitrisés:
