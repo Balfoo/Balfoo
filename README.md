@@ -34,7 +34,7 @@ Outils
 </br>
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-SQLServ-informational?style=flat&logo=SQLServ&color=F05032)
+![](https://img.shields.io/badge/Tools-SQLServ-informational?style=flat&logo=SQL&color=F05032)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&color=FF6600)
