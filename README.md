@@ -1,9 +1,9 @@
 Hi 👋, Je suis Balfoo
 Un développeur Back-End qui aime le web 
 
-🔭 Je suis en DUT MMI 
+🔭 Je suis en LP CréaWeb à l'IUT de Lens
 
-🌱 Je suis en train d'apprendre Php, Wordpress, Angular 
+🌱 Je maitrise les languages PHP, HTML, CSS, SQLServ, BDD, JS et j'apprend l'Angular, SASS, ASP.NET C#, Gulps  
 
 👨‍💻 Tous mes projets publiques sont disponibles sur https://github.com/Balfoo ou sur mon portfolio http://www.florent-hode.fr 
 
