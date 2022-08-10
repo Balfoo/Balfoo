@@ -7,7 +7,7 @@ Un développeur web Full-Stack spécialisé en Back-End
 
 👨‍💻 Tous mes projets publiques sont disponibles sur https://github.com/Balfoo ou sur mon portfolio http://www.florent-hode.fr 
 
-📫 Me joindre Discord : Balfoo#0903
+![image](https://user-images.githubusercontent.com/79572615/183863016-ca8bedfb-2180-44a0-b001-f05a858e6b1f.png) Me joindre Discord : Balfoo#0903
 
 
 Langages & Outils maitrisés:
