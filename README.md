@@ -1,5 +1,5 @@
-Hi 👋, Je suis Balfoo
-Un développeur Back-End qui aime le web 
+Hi 👋, Je suis Florent allias Balfoo
+Un développeur web Full-Stack spécialisé en Back-End
 
 🔭 Je suis en LP CréaWeb à l'IUT de Lens
 
