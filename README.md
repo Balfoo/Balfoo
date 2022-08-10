@@ -14,7 +14,7 @@ Langages & Outils maitrisés:
 </br>
 Langages Back
 </br>
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
@@ -34,8 +34,8 @@ Outils
 </br>
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-SQLServ-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-SQLServ-informational?style=flat&logo=SQLServ&color=F05032)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&color=FF6600)
 
