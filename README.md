@@ -3,8 +3,7 @@ Un développeur web Full-Stack spécialisé en Back-End, je suis en LP CréaWeb 
 
 Je maitrise les languages PHP, HTML, CSS, SQLServ, BDD, JS et j'apprend l'Angular, SASS, ASP.NET C#, Gulps  
 
-Tous mes projets publiques sont disponibles sur https://github.com/Balfoo ou sur mon portfolio http://www.florent-hode.fr 
-
+Tous mes projets publiques sont disponibles sur https://github.com/Balfoo 
 Me joindre Discord : Balfoo#0903
 
 
